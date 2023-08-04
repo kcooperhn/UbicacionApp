@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UbicacionApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="header_location">Ubicación - Latitud y Longitud</string>
+    <string name="btn_compartir_ubicacion">Compartir Ubicación</string>
+    <string name="btn_abrir_mapa">Abrir Mapa</string>
+    <string name="lbl_longitud">Longitud</string>
+    <string name="lbl_latitud">Latitud</string>
+    <string name="header_location_error">Permiso NO otorgtado</string>
+    <string name="no_ubicacion">No se ha obtenido ninguna ubicación</string>
+</resources>
